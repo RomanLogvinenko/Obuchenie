@@ -1,0 +1,14 @@
+C:\Users\rlogvinenko\.vscode\Obuchenie\bin\Debug\net9.0\Obuchenie.exe
+C:\Users\rlogvinenko\.vscode\Obuchenie\bin\Debug\net9.0\Obuchenie.deps.json
+C:\Users\rlogvinenko\.vscode\Obuchenie\bin\Debug\net9.0\Obuchenie.runtimeconfig.json
+C:\Users\rlogvinenko\.vscode\Obuchenie\bin\Debug\net9.0\Obuchenie.dll
+C:\Users\rlogvinenko\.vscode\Obuchenie\bin\Debug\net9.0\Obuchenie.pdb
+C:\Users\rlogvinenko\.vscode\Obuchenie\obj\Debug\net9.0\Obuchenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlogvinenko\.vscode\Obuchenie\obj\Debug\net9.0\Obuchenie.AssemblyInfoInputs.cache
+C:\Users\rlogvinenko\.vscode\Obuchenie\obj\Debug\net9.0\Obuchenie.AssemblyInfo.cs
+C:\Users\rlogvinenko\.vscode\Obuchenie\obj\Debug\net9.0\Obuchenie.csproj.CoreCompileInputs.cache
+C:\Users\rlogvinenko\.vscode\Obuchenie\obj\Debug\net9.0\Obuchenie.dll
+C:\Users\rlogvinenko\.vscode\Obuchenie\obj\Debug\net9.0\refint\Obuchenie.dll
+C:\Users\rlogvinenko\.vscode\Obuchenie\obj\Debug\net9.0\Obuchenie.pdb
+C:\Users\rlogvinenko\.vscode\Obuchenie\obj\Debug\net9.0\Obuchenie.genruntimeconfig.cache
+C:\Users\rlogvinenko\.vscode\Obuchenie\obj\Debug\net9.0\ref\Obuchenie.dll
