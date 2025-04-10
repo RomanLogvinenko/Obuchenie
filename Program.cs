@@ -2,10 +2,32 @@
 using System.Xml.Serialization;
 using System;
 using System.Linq.Expressions;
+using System.Runtime.Intrinsics.Arm;
+using System.Runtime.InteropServices;
 
 namespace Solutions
 {
     class SSS{
+
+         static public bool IsPalindrome(){
+            string s = Console.ReadLine();
+             s = s.ToLower();
+            char[] sChar = s.ToCharArray();
+            List<char> chars = new List<char>();
+            for(int i =0;i<s.Length;i++){
+                if(Convert.ToString(sChar[i])==" "){
+                    
+                }
+                else{
+                    chars.Add(sChar[i]);
+                    System.Console.WriteLine(Convert.ToString(chars));
+                }
+            }
+            s=chars.ToString();
+            System.Console.WriteLine(s);
+          
+            return s==s.Reverse();
+        }
 
         public static int RomanToInt(){
 
@@ -53,7 +75,8 @@ namespace Solutions
 
 
         static void Main(string[] args){
-            RomanToInt();
+            //RomanToInt();
+            IsPalindrome();
         }
     }
 }

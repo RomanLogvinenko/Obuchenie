@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Obuchenie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d00873ca35647b36cf0ceb5ef463e0927b4b16ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Obuchenie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Obuchenie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
